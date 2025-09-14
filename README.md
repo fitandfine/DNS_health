@@ -11,6 +11,6 @@
 - Display results in a sortable GUI table
 - Export results to CSV
 - Fully cross-platform: Linux, macOS, Windows
-- Single-file Python code for simplicity and easy GitHub showcasing
+
 
 ---
