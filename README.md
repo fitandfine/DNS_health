@@ -1,6 +1,6 @@
 # DNS Health Checker GUI
 
-**DNS Health Checker** is a cross-platform Python application that allows users to check the health and configuration of DNS records for any list of domains. It queries common DNS record types (A, AAAA, MX, CNAME), measures DNS resolution latency, and displays the results in a user-friendly GUI. Results can be exported to CSV for reporting. This project is fully ethical and safe, ideal for showcasing networking, Python, and GUI skills to potential employers.
+**DNS Health Checker** is a cross-platform Python application that allows users to check the health and configuration of DNS records for any list of domains. It queries common DNS record types (A, AAAA, MX, CNAME), measures DNS resolution latency, and displays the results in a user-friendly GUI. Results can be exported to CSV for reporting. 
 
 ---
 
